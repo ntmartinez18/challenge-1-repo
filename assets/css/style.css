@@ -88,7 +88,7 @@ p {
 }
 
 /*consolidated code by creating a class selector applicable to multiple elements*/
-.benefit-points {
+.benefit-header {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -100,7 +100,7 @@ p {
 }
 
 /*consolidated code by creating a class selector applicable to multiple elements*/
-.benefit-points img {
+.benefit-header img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -136,7 +136,7 @@ p {
     text-align: center;
 }
 
-/*created id attribute applicable to a specific element*/
+/*created id attribute applicable to specific h1 element in the footer*/
 #footer-h1 {
     font-size: 20px;
 }
