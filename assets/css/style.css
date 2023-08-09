@@ -107,7 +107,9 @@ p {
 }
 
 /*consolidated code by creating a class selector applicable to multiple elements*/
-.article-box {
+#article-box-1,
+#article-box-2,
+#article-box-3{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -117,12 +119,12 @@ p {
 }
 
 /*consolidated code by creating a class selector applicable to multiple elements*/
-.article-box img {
+.content img {
     max-height: 200px;
 }
 
 /*consolidated code by creating a class selector applicable to multiple elements*/
-.article-box h1 {
+.content h1 {
     margin-bottom: 20px;
     font-size: 36px;
 }
