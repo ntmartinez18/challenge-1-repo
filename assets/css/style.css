@@ -87,26 +87,26 @@ p {
     background-color: #2589bd;
 }
 
-/*consolidated code by creating a class selector applicable to multiple elements*/
+/*consolidated code by creating a class selector applicable to multiple headerelements*/
 .benefit-header {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*consolidated code by creating a class selector applicable to multiple elements*/
+/*consolidated code by creating a class selector applicable to multiple h1 elements*/
 .benefit-h1 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*consolidated code by creating a class selector applicable to multiple elements*/
+/*consolidated code by creating a class selector applicable to multiple image elements*/
 .benefit-header img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*consolidated code by creating a class selector applicable to multiple elements*/
+/*consolidated code for the article boxes and allowed them to be manipulated with jump links*/
 #article-box-1,
 #article-box-2,
 #article-box-3{
@@ -118,12 +118,12 @@ p {
     color: #ffffff;
 }
 
-/*consolidated code by creating a class selector applicable to multiple elements*/
+/*consolidated code by creating a class selector applicable to multiple image elements*/
 .content img {
     max-height: 200px;
 }
 
-/*consolidated code by creating a class selector applicable to multiple elements*/
+/*consolidated code by creating a class selector applicable to multiple h1 elements*/
 .content h1 {
     margin-bottom: 20px;
     font-size: 36px;

@@ -10,8 +10,17 @@ Allows users to access information about the company Horiseon Social Solutions a
 ## Installation
 N/A
 
+## Technologies
+Project is created with
+<li>
+    html
+</li>
+<li>
+    css
+</li>
+
 ## Usage
-To use this webpage, users may click on one of the three headings in the navigation bar for more information on that topic in particular or simply scroll.
+To use this webpage, users may click on one of the three headings in the navigation bar for more information on that topic in particular or simply scroll. Topics include search engine optimization, online reputation management, and social media marketing.
 
 ## Credits
 Received starter code from the following repository.
